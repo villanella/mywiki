@@ -2,9 +2,8 @@
 layout: post
 title: "Использование Vimwiki для работы с сайтом на jekyll" 
 date: 2015-02-17 00:03:05
-categories: blog
-tags: [tags for the post, is here]  
-summary: удобный инструмент блоггинга 
+categories: blog 
+tags: [tags]  
 ---
 
 ## Vim + vimwiki + markdown + github + jekyll
