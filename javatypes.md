@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Типы данных в Java 
+title: Java 
 permalink: java/javatypes/
 ---
 
