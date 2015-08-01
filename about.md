@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-*Arctic Fox* is a lightweight and customisable Jekyll Theme.
+My personal training wiki.
 
-* Author: Camille Diez
-* Github: http://github.com/diezcami
-* Portfolio: http://diezcami.github.io
+
+* Author: Nadia 
+* Github: http://github.com/villanella
+* Site: http://ling.cf
