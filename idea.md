@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Java 
-permalink: idea/
+permalink: java/idea/
 ---
 
 ## Настройка среды разработки
