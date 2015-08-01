@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Java 
-permalink: /java/
+permalink: java/
 ---
 ## Заметки о программировании на Java 
 

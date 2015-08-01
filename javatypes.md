@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Типы данных в Java 
-permalink: java/javatypes
+permalink: java/javatypes/
 ---
 
 
